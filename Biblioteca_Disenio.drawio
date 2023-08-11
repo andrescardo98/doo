@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-11T02:33:49.814Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="SX6ZfP-buCzcoB0xNqx8" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-11T02:44:57.754Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="dGl9F0boiSrJMTOvIJcs" version="21.6.7" type="github">
   <diagram name="Page-1" id="8NP3AdUZ_DkiwLjYIJoB">
     <mxGraphModel dx="2085" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -176,13 +176,16 @@
         <mxCell id="uPfxFNsf_GQujLF1gzZ6-9" value="Conforms" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="370" y="528" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="uPfxFNsf_GQujLF1gzZ6-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.57;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="uPfxFNsf_GQujLF1gzZ6-11" target="uPfxFNsf_GQujLF1gzZ6-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uPfxFNsf_GQujLF1gzZ6-11" value="A&lt;br&gt;C&lt;br&gt;L" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="600" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uPfxFNsf_GQujLF1gzZ6-12" value="Conformista porque la logística &lt;br&gt;del envío del libro solo &lt;br&gt;actuará cuando se realice&lt;br&gt;&amp;nbsp;el prestamo de un libro" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="470" y="440" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="uPfxFNsf_GQujLF1gzZ6-13" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1.018;exitY=0.62;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.452;entryY=1.052;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uPfxFNsf_GQujLF1gzZ6-9" target="uPfxFNsf_GQujLF1gzZ6-12">
+        <mxCell id="uPfxFNsf_GQujLF1gzZ6-13" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1.018;exitY=0.62;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.452;entryY=1.052;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="uPfxFNsf_GQujLF1gzZ6-9" target="uPfxFNsf_GQujLF1gzZ6-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="568" as="sourcePoint" />
             <mxPoint x="540" y="518" as="targetPoint" />
@@ -191,6 +194,9 @@
               <mxPoint x="540" y="540" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="uPfxFNsf_GQujLF1gzZ6-14" value="ACL para asegurar que solo&lt;br&gt;los datos que necesita préstamo,&amp;nbsp;&lt;br&gt;sean compartidos por cliientes&lt;br&gt;protegiendo la integridad de&lt;br&gt;cada dominio.&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="110" y="430" width="200" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
