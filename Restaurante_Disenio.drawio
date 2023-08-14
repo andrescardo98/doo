@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T01:14:28.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="wcZUZE8bsFJn6Y9-erK-" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-14T01:39:08.953Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="96Q2zuhQKsNO9ol3z8wA" version="21.6.8" type="github" pages="4">
   <diagram name="Modelado estratégico" id="8NP3AdUZ_DkiwLjYIJoB">
     <mxGraphModel dx="1050" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,16 +10,16 @@
         <mxCell id="hWaTpJQsUfpoI2xFxVlj-3" value="Clientes" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="130" y="130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hWaTpJQsUfpoI2xFxVlj-4" value="Personal" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="hWaTpJQsUfpoI2xFxVlj-4" value="Usuarios" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="270" y="130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hWaTpJQsUfpoI2xFxVlj-5" value="Notificaciones" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="hWaTpJQsUfpoI2xFxVlj-5" value="Notificaciones" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="410" y="130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hWaTpJQsUfpoI2xFxVlj-6" value="Reservas" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="hWaTpJQsUfpoI2xFxVlj-6" value="Reservas" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="550" y="130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hWaTpJQsUfpoI2xFxVlj-8" value="Mesas" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="hWaTpJQsUfpoI2xFxVlj-8" value="Mesas" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="130" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hWaTpJQsUfpoI2xFxVlj-11" value="Sistema de software que facilite la gestión eficiente de las reservas en un restaurante.&lt;br&gt;1. Los Clientes pueden hacer reservas.&lt;br&gt;2. Los clientes pueden revisar el menú.&lt;br&gt;3. Los empleados pueden gestionar y confirmar reservas.&lt;br&gt;4. El personal del restaurante puede hacer el pedido de los clientes, seleccionando platos.&lt;br&gt;5. Notificaciones para recordatorios de reserva, confirmaciones y cambios en reservas." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -32,7 +32,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m7rZ0P3Zvw4P9yKM0_KO-1" value="Menú" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="m7rZ0P3Zvw4P9yKM0_KO-1" value="Menú" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="270" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="m7rZ0P3Zvw4P9yKM0_KO-2" value="Clientes" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -41,7 +41,7 @@
         <mxCell id="m7rZ0P3Zvw4P9yKM0_KO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="m1d5xnHj2r6-90BKkYrr-3" target="m7rZ0P3Zvw4P9yKM0_KO-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m7rZ0P3Zvw4P9yKM0_KO-3" value="Personal" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="m7rZ0P3Zvw4P9yKM0_KO-3" value="Usuarios" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="410" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="m7rZ0P3Zvw4P9yKM0_KO-4" value="Notificaciones" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -65,7 +65,7 @@
         <mxCell id="m7rZ0P3Zvw4P9yKM0_KO-7" value="Platos" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="550" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="m7rZ0P3Zvw4P9yKM0_KO-9" value="Pedidos" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="m7rZ0P3Zvw4P9yKM0_KO-9" value="Pedidos" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="410" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="m7rZ0P3Zvw4P9yKM0_KO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="m7rZ0P3Zvw4P9yKM0_KO-10" target="m7rZ0P3Zvw4P9yKM0_KO-7" edge="1">
@@ -335,6 +335,17 @@
         </mxCell>
         <mxCell id="Sz_9QT7h_ijlAL8xgazZ-9" value="0...*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="355" y="280" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="em-pJprShA_9j6CIK16D" name="Contexto Usuarios(Modelo dominio Usuarios)">
+    <mxGraphModel dx="1050" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="djUfzpp7J1kbpfR7yh0u-1" value="Usuarios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
