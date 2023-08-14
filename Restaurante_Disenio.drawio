@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T04:18:34.558Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="oZqG5SK53-32HNURrS-1" version="21.6.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-08-14T04:56:10.497Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ZHCZR2JWcNuy_EDr9t54" version="21.6.8" type="github" pages="7">
   <diagram name="Modelado estratégico" id="8NP3AdUZ_DkiwLjYIJoB">
     <mxGraphModel dx="1050" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="hWaTpJQsUfpoI2xFxVlj-6" value="Reservas" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="550" y="130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hWaTpJQsUfpoI2xFxVlj-8" value="Mesas" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="hWaTpJQsUfpoI2xFxVlj-8" value="Mesas" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="130" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hWaTpJQsUfpoI2xFxVlj-11" value="Sistema de software que facilite la gestión eficiente de las reservas en un restaurante.&lt;br&gt;1. Los Clientes pueden hacer reservas.&lt;br&gt;2. Los clientes pueden revisar el menú.&lt;br&gt;3. Los empleados pueden gestionar y confirmar reservas.&lt;br&gt;4. El personal del restaurante puede hacer el pedido de los clientes, seleccionando platos.&lt;br&gt;5. Notificaciones para recordatorios de reserva, confirmaciones y cambios en reservas." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -634,6 +634,17 @@
         </mxCell>
         <mxCell id="S_TM2tbALE1L9GIuarEz-9" value="0...*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="377" y="225" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xoI4kdPsuxktBsvWPsLU" name="Contexto Pedidos(Modelo dominio Pedidos)">
+    <mxGraphModel dx="1050" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fKQL6ajm8dhCDHlH6zCv-1" value="Pedido" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
