@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T05:46:14.850Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Olbnal96xyWbcDHkb_XA" version="21.6.9" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-08-25T06:02:00.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="dIIFz21B-06dNQgL5Cq4" version="21.6.9" type="github" pages="10">
   <diagram name="Modelado estratégico" id="8NP3AdUZ_DkiwLjYIJoB">
     <mxGraphModel dx="1035" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1762,6 +1762,14 @@
         <mxCell id="Vs9ZK_RzFsoj0SMbbPoL-1" value="DescripcionProducto" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="940" y="70" width="140" height="40" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fcIJlQRBQEHlBk0Odgq-" name="ContextMapping V2">
+    <mxGraphModel dx="880" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
