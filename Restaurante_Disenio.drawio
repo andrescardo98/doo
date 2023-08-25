@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T23:39:14.383Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="EMfo-WPJkpwCdu8Sy24d" version="21.6.9" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-08-25T23:56:45.607Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="iy2MJPFAf0hHbLm_K6Ov" version="21.6.9" type="github" pages="10">
   <diagram name="Modelado estratégico" id="8NP3AdUZ_DkiwLjYIJoB">
     <mxGraphModel dx="1050" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -122,7 +122,7 @@
           <mxGeometry x="495" y="560" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b-tlD1Jup0ux77t7mZk--11" value="u" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="645" y="560" width="60" height="30" as="geometry" />
+          <mxGeometry x="667" y="560" width="25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b-tlD1Jup0ux77t7mZk--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="b-tlD1Jup0ux77t7mZk--15" target="m7rZ0P3Zvw4P9yKM0_KO-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
