@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T19:51:26.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Aj3QxXUdnPG6Wuj2HIpR" version="21.6.9" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-08-25T19:52:34.694Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="rZtQ819PCQah40aSZEPe" version="21.6.9" type="github" pages="10">
   <diagram name="Modelado estratégico" id="8NP3AdUZ_DkiwLjYIJoB">
     <mxGraphModel dx="1035" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1766,7 +1766,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fcIJlQRBQEHlBk0Odgq-" name="ContextMapping V2">
-    <mxGraphModel dx="2317" dy="1897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1885" dy="1662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1863,10 +1863,10 @@
         <mxCell id="8mwYhBDGCQZVY-usBYkN-184" value="Menú" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="665" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8mwYhBDGCQZVY-usBYkN-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=10;endArrow=none;endFill=0;" edge="1" parent="1" source="8mwYhBDGCQZVY-usBYkN-196" target="8mwYhBDGCQZVY-usBYkN-171">
+        <mxCell id="8mwYhBDGCQZVY-usBYkN-195" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#70FF7A;strokeWidth=10;endArrow=none;endFill=0;" edge="1" parent="1" source="8mwYhBDGCQZVY-usBYkN-196" target="8mwYhBDGCQZVY-usBYkN-171">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8mwYhBDGCQZVY-usBYkN-196" value="DescripcionProducto" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#33FF33;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="8mwYhBDGCQZVY-usBYkN-196" value="DescripcionProducto" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#70FF7A;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="665" y="295" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8mwYhBDGCQZVY-usBYkN-210" value="DescripcionProducto" style="text;whiteSpace=wrap;" vertex="1" parent="1">
