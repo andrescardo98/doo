@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-27T17:46:58.937Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="idhKUCRbEaScFaYFPNYD" version="21.6.9" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-08-27T19:14:05.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="hmJ4tL4gIPwPMB2xEm-k" version="21.6.9" type="github" pages="10">
   <diagram name="Modelado estratégico" id="8NP3AdUZ_DkiwLjYIJoB">
     <mxGraphModel dx="1050" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -355,7 +355,7 @@
         <mxCell id="-pNq0xSHVZSJhCHoWCk3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="HU4lSBY8ZP7PwjPlez8Z-2" target="Z4tS4-4CTJGqtoBqMRcC-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HU4lSBY8ZP7PwjPlez8Z-2" value="Menu" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
+        <mxCell id="HU4lSBY8ZP7PwjPlez8Z-2" value="Menu" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;strokeColor=#FFBFBF;" parent="1" vertex="1">
           <mxGeometry x="365" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1l_eswsNuXuYSEPqPFSs-1" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
@@ -477,7 +477,7 @@
             <mxPoint x="705" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_KQLnJhSIKr7JKTODuqk-1" value="Menú" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
+        <mxCell id="_KQLnJhSIKr7JKTODuqk-1" value="Menú" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;strokeColor=#886666;" parent="1" vertex="1">
           <mxGeometry x="600" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_KQLnJhSIKr7JKTODuqk-3" value="Tiene" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -1618,7 +1618,7 @@
             <mxPoint x="1290" y="574" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DX4_v7U6UWYTCF8F210H-25" value="Menú" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="DX4_v7U6UWYTCF8F210H-25" value="Menú" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1185" y="804" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DX4_v7U6UWYTCF8F210H-26" value="Tiene" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
