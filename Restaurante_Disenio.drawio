@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-29T04:04:55.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="eZL1sOC3nP6zBwa1Me90" version="21.6.9" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-08-29T04:52:19.221Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="sqlT17OnWNm3icKMbYya" version="21.6.9" type="github" pages="12">
   <diagram name="Modelado estratégico" id="8NP3AdUZ_DkiwLjYIJoB">
     <mxGraphModel dx="880" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -707,7 +707,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YgDcOScEkmePeAlaYk1z" name="Mesas">
-    <mxGraphModel dx="1120" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="880" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1928,10 +1928,10 @@
           <mxGeometry x="150" y="151" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UCT6diTIPRACmSJRHeNZ-12" value="Categoría" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UCT6diTIPRACmSJRHeNZ-19" value="Menú" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFCCCC;strokeColor=#886666;" vertex="1" parent="1">
-          <mxGeometry x="540" y="151" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nU3rQ1yhPtoEmgwCQttI-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;1&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="50" width="80" height="70" as="geometry" />
