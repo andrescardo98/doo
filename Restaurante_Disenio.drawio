@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-03T04:56:08.131Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="FeP5n05pFgF4UCt2tea9" version="21.7.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-09-03T05:07:15.490Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="faMwwV2vFuR6MY5_J5V-" version="21.7.2" type="github" pages="11">
   <diagram name="Modelado estratégico" id="8NP3AdUZ_DkiwLjYIJoB">
     <mxGraphModel dx="1092" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -612,7 +612,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zZIT_quAFqdPsJCu5-VX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" target="zZIT_quAFqdPsJCu5-VX-1" edge="1">
+        <mxCell id="zZIT_quAFqdPsJCu5-VX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="rEhy5C4F7gGYhm7shrdC-9" target="zZIT_quAFqdPsJCu5-VX-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="755" y="282" as="sourcePoint" />
           </mxGeometry>
@@ -630,7 +630,7 @@
           <mxGeometry x="360" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zZIT_quAFqdPsJCu5-VX-1" value="EstadisticasReservas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="915" y="252" width="120" height="60" as="geometry" />
+          <mxGeometry x="920" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zZIT_quAFqdPsJCu5-VX-2" value="TipoEstadistica" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="90" width="120" height="60" as="geometry" />
@@ -657,7 +657,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yi_6tovyQ5_pNDiX6n6w-2" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="750" y="250" width="30" height="30" as="geometry" />
+          <mxGeometry x="760" y="250" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fSFTY7Q_U10xrEvyQXbZ-1" value="tiene" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="420" y="188" width="50" height="30" as="geometry" />
@@ -708,7 +708,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rEhy5C4F7gGYhm7shrdC-9" value="Metrica" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rEhy5C4F7gGYhm7shrdC-12" value="tiene" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="282" width="50" height="30" as="geometry" />
@@ -720,7 +720,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rEhy5C4F7gGYhm7shrdC-14" value="1...*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="590" y="280" width="40" height="30" as="geometry" />
+          <mxGeometry x="600" y="280" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rEhy5C4F7gGYhm7shrdC-15" value="pertenece" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="515" y="250" width="80" height="30" as="geometry" />
