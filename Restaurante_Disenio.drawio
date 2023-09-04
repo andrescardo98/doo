@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T00:16:38.292Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="x_33PXYMp4FfBN7_vyGD" version="21.7.2" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-09-04T00:17:53.257Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="dOdQaqRhfKOuyHdgHTEA" version="21.7.2" type="github" pages="11">
   <diagram name="Modelado estratégico" id="8NP3AdUZ_DkiwLjYIJoB">
     <mxGraphModel dx="1942" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -405,7 +405,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DCO-mssSepy2mbwkg9fi" name="Menu">
-    <mxGraphModel dx="1092" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1332" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -507,7 +507,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YgDcOScEkmePeAlaYk1z" name="Mesas">
-    <mxGraphModel dx="1092" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1332" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -581,7 +581,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Nu97V-kuUTZNgNK_DWZ7-1" value="TipoMesa" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Nu97V-kuUTZNgNK_DWZ7-3" value="Tiene" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="372" y="350" width="50" height="30" as="geometry" />
@@ -592,8 +592,8 @@
             <mxPoint x="378" y="381" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Nu97V-kuUTZNgNK_DWZ7-6" value="1...*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="384" y="384" width="40" height="30" as="geometry" />
+        <mxCell id="Nu97V-kuUTZNgNK_DWZ7-6" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="390" y="400" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rDDfuVpClrIvm5HXqyl8-1" value="Pertenece" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="417" y="350" width="80" height="30" as="geometry" />
@@ -603,6 +603,9 @@
             <mxPoint x="490" y="385" as="sourcePoint" />
             <mxPoint x="490" y="345" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JvImSX0uRK4nLcyBBIZ4-1" value="1...*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="310" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
