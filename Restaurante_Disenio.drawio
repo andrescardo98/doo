@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T01:30:45.298Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="K68sJ_szSYGjt4yLwDpJ" version="21.7.2" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-09-04T01:31:11.300Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="170eDqGefOuYzncxe5qP" version="21.7.2" type="github" pages="12">
   <diagram name="Modelado estratégico" id="8NP3AdUZ_DkiwLjYIJoB">
     <mxGraphModel dx="1942" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1773,35 +1773,6 @@
         </mxCell>
         <mxCell id="ja1WguEDsclHmDXuSYgK-13" value="Categoría" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="fFFjPfJkc7UdZUMOUpwy" name="Flujo Eventos Mesas">
-    <mxGraphModel dx="1092" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="TKSgS5X1kXLpgVJXuZon-3" value="Mesa" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="350" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TKSgS5X1kXLpgVJXuZon-4" value="Estado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TKSgS5X1kXLpgVJXuZon-12" value="Ubicacion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TKSgS5X1kXLpgVJXuZon-19" value="TipoMesa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gULidoEbGVU7NOgNOq-g-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;1&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="50" width="80" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="gULidoEbGVU7NOgNOq-g-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;2&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="50" width="80" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="gULidoEbGVU7NOgNOq-g-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;3&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="50" width="80" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
