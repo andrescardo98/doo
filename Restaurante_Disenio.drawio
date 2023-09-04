@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T01:35:49.243Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="_8wi0OvXQYlAdn0CxXge" version="21.7.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-09-04T03:08:21.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="vDnoB1McsvJPCOGDr4l2" version="21.7.2" type="github" pages="12">
   <diagram name="Modelado estratégico" id="8NP3AdUZ_DkiwLjYIJoB">
     <mxGraphModel dx="1942" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1697,7 +1697,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DHKLV-lPJ9BWQZ9zyOXv" name="Flujo Eventos Clientes">
-    <mxGraphModel dx="1092" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="910" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1797,8 +1797,8 @@
         <mxCell id="dG04QLd-mj5-jWLSmods-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;dashed=1;" edge="1" parent="1" source="KjE9CE_f5pZ5Y4ehlU_5-12" target="KjE9CE_f5pZ5Y4ehlU_5-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="510" y="270" />
-              <mxPoint x="510" y="190" />
+              <mxPoint x="530" y="270" />
+              <mxPoint x="530" y="190" />
             </Array>
           </mxGeometry>
         </mxCell>
