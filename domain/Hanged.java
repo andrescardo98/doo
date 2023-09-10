@@ -3,10 +3,24 @@ package com.andres.hanged.domain;
 
 import com.andres.hanged.exceptions.InvalidFormatException;
 
+import java.util.HashMap;
+import java.util.Map;
 import java.util.Random;
 import java.util.Scanner;
 
 public class Hanged {
+
+    private Map<String, String> wordToHint = new HashMap<>();
+
+    public Hanged (){
+        wordToHint.put("casa","Lugar donde vives");
+        wordToHint.put("ignorar","No prestar atención a algo o alguien");
+        wordToHint.put("diseño","Ilustración gráfica o conceptual");
+        wordToHint.put("hipopotamo","Animal grande que vive en el agua y en la tierra");
+        wordToHint.put("vehiculo","Medio de transporte");
+        wordToHint.put("carro","Automovil pequeño");
+    }
+
     private String[] words = {"casa","ignorar","diseño","hipopotamo","vehiculo","carro"};
     private static final byte MAX_ATTEMPTS = 10;
     private String secretWord;
@@ -27,6 +41,10 @@ public class Hanged {
         for (int i = 0; i < secretWordHyphens.length; i++) {
             secretWordHyphens[i] = '_';
         }
+    }
+
+    private String getHing(String word){
+        return wordToHint.get(word.toLowerCase());
     }
 
     private void registerPlayer(){
@@ -50,6 +68,7 @@ public class Hanged {
 
         boolean finishedGame = false;
         int attempts = 0;
+        int incorrectAnswers = 0;
         do {
             System.out.println(secretWordHyphens);
             System.out.println("Enter a letter: ");
@@ -65,6 +84,15 @@ public class Hanged {
             if (!correctLetter){
                 System.out.println("Try again");
                 attempts ++;
+                incorrectAnswers++;
+
+                if (incorrectAnswers >= 3){
+                    System.out.println("Do you want a hint? yes/no:");
+                    String hintChoise = scanner.next().toLowerCase();
+                    if (hintChoise.equals("yes")){
+                        System.out.println("Hint: " + getHing(secretWord));
+                    }
+                }
 
                 if (attempts >= MAX_ATTEMPTS){
                     finishedGame = true;
