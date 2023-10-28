@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-28T01:46:37.801Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="lXH3ZFPnVHzL-OSAity-" version="22.0.8" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-10-28T01:47:12.175Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="6Jikn9dRKPRUpjZShLnd" version="22.0.8" type="github" pages="16">
   <diagram name="Modelado estratégico" id="8NP3AdUZ_DkiwLjYIJoB">
     <mxGraphModel dx="1730" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -178,7 +178,7 @@
           <mxGeometry x="370" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F4pM8kQzIfORUcGOrFC8-3" value="pertenece" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="365" y="350" width="80" height="30" as="geometry" />
+          <mxGeometry x="360" y="350" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kvZPXKvpAGWMIdNN_GZd-1" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -199,6 +199,13 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="475" y="380" as="sourcePoint" />
             <mxPoint x="475" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3T5TUhjAKa-0-LcWZNwA-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="359.99999999999994" y="345" as="sourcePoint" />
+            <mxPoint x="361.2" y="385" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
