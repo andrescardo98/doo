@@ -1,9 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T01:22:17.467Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.1" etag="znNrC9M1nwEiA6SfOYEI" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-06T03:44:04.755Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="kfHOhcg0y2se93gYd9V8" version="24.0.1" type="github">
   <diagram name="Página-1" id="k9J1iPUVa3tTMlugftNG">
-    <mxGraphModel>
+    <mxGraphModel dx="1120" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ole2xwR89JrdpeBlhyrH-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ole2xwR89JrdpeBlhyrH-1" target="Ole2xwR89JrdpeBlhyrH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ole2xwR89JrdpeBlhyrH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ole2xwR89JrdpeBlhyrH-1" target="Ole2xwR89JrdpeBlhyrH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ole2xwR89JrdpeBlhyrH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ole2xwR89JrdpeBlhyrH-1" target="Ole2xwR89JrdpeBlhyrH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ole2xwR89JrdpeBlhyrH-1" value="Registro en el sistema (cliente y bibliotecario)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="364" y="70" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ole2xwR89JrdpeBlhyrH-2" value="Cliente" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="150" y="90" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ole2xwR89JrdpeBlhyrH-4" value="Bibliotecario" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="590" y="90" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ole2xwR89JrdpeBlhyrH-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ole2xwR89JrdpeBlhyrH-6" target="Ole2xwR89JrdpeBlhyrH-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ole2xwR89JrdpeBlhyrH-6" value="Inicio de sesión" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="364" y="220" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ole2xwR89JrdpeBlhyrH-8" value="Vista inicial para búsqueda&lt;div&gt;&amp;nbsp;de libros: Allí el cliente puede aplicar&amp;nbsp;&lt;/div&gt;&lt;div&gt;filtros para realizar su búsqueda a partir de&amp;nbsp;&lt;/div&gt;&lt;div&gt;categorías, autores, ISBN y palabras clave&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="75" y="305" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ole2xwR89JrdpeBlhyrH-9" value="Página inicial" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="364" y="315" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ole2xwR89JrdpeBlhyrH-11" value="Página para reserva" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="364" y="420" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ole2xwR89JrdpeBlhyrH-12" value="Una vez realizada la búsqueda, aparecerá el&lt;div&gt;libro buscado con una descripción del mismo y&amp;nbsp;&lt;/div&gt;&lt;div&gt;la página para realizar la reserva, pudiendo&amp;nbsp;&lt;/div&gt;&lt;div&gt;seleccionar la fecha a partir de la cual se quiere&lt;br&gt;&lt;/div&gt;&lt;div&gt;reservar el libro, en caso de no estar disponible&amp;nbsp;&lt;/div&gt;&lt;div&gt;se mostrará un mensaje con la fecha a partir de&amp;nbsp;&lt;/div&gt;&lt;div&gt;la cual va a estar disponible.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="390" width="280" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
